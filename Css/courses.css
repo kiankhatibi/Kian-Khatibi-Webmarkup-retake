@@ -212,7 +212,7 @@
     left: -100px;
     border-radius: 15px;
   }
-  /* 1. Uses at least 2 position properties */
+
 .container {
   position: absolute;
   top: 1720px;
@@ -220,14 +220,14 @@
   transform: translateX(-50%);
 }
 
-/* 2. Uses float property */
+
 table {
   float: left;
   width: 100%;
   border-collapse: collapse;
 }
 
-/* 3. Pseudo-class nth-child to color even and odd rows */
+
 table tbody tr:nth-child(even) {
   background-color: #CFF;
 }
@@ -236,33 +236,33 @@ table tbody tr:nth-child(odd) {
   background-color: #FFF;
 }
 
-/* 4. Pseudo-element first-letter */
+
 h1::first-letter {
   font-size: 2rem;
   color: #0066cc;
   font-weight: bold;
 }
 
-/* 5. Selecting elements by a > (larger than) */
+
 section > table {
   width: 80%;
   border-collapse: collapse;
 }
 
-/* 6. Not using property value !important (already satisfied) */
 
-/* 7. Pseudo-class mouse-over for links */
+
+
 a:hover {
   color: #ff6347;
   text-decoration: underline;
 }
 
-/* 8. Pseudo-class selected link */
+
 a:active {
   color: #008080;
 }
 
-/* 9. Selecting elements by comma (,) */
+
 th, td {
   border-color: #000;
   border-style: solid;
@@ -271,7 +271,7 @@ th, td {
   text-align: left;
 }
 
-/* 10. Additional styles for clarity */
+
 table {
   width: 100%;
   border-collapse: collapse;
