@@ -8,20 +8,20 @@
     font-family: "JetBrains Mono", monospace;
   }
   #cookies-message {
-    position: fixed; 
-    bottom: 20px; 
-    left: 0; 
-    width: 100%; 
+    position: fixed;
+    bottom: 20px;
+    left: 0;
+    width: 100%;
     background-color: rgba(
       0,
       0,
       0,
       0.8
     ); /* Background with some transparency */
-    color: white; 
-    text-align: center; 
+    color: white;
+    text-align: center;
     padding: 15px;
-    z-index: 9999; 
+    z-index: 9999;
   }
 
   nav {
