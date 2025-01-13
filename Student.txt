@@ -1,3 +1,5 @@
 Student name: Seyed Kian Khatibi
 Student number: 726925
 Student class: IT1B
+GitHub Repository: https://github.com/kiankhatibi/Kian-Khatibi-Webmarkup-retake.git
+GitHub Pages URL: https://kiankhatibi.github.io/Kian-Khatibi-Webmarkup-retake/
