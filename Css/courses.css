@@ -778,10 +778,67 @@
     width: 400px;
     height: 200px;
     position: absolute;
-    top: 1178px;
+    top: 1188px;
     left: 20px;
     border-radius: 15px;
   }
+  .container {
+    position: absolute;
+    top: 1720px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: none;
+  }
+
+  table {
+    float: left;
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  table tbody tr:nth-child(even) {
+    background-color: #cff;
+  }
+
+  table tbody tr:nth-child(odd) {
+    background-color: #fff;
+  }
+
+  h1::first-letter {
+    font-size: 2rem;
+    color: #0066cc;
+    font-weight: bold;
+  }
+
+  section > table {
+    width: 80%;
+    border-collapse: collapse;
+  }
+
+  a:hover {
+    color: #ff6347;
+    text-decoration: underline;
+  }
+
+  a:active {
+    color: #008080;
+  }
+
+  th,
+  td {
+    border-color: #000;
+    border-style: solid;
+    border-width: 2px;
+    padding: 8px;
+    text-align: left;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #fafafa;
+  }
+
   .sec3box {
     width: 400px;
     height: 300px;
@@ -1307,6 +1364,63 @@
     left: 30px;
     border-radius: 15px;
   }
+  .container {
+    position: absolute;
+    top: 1720px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: none;
+  }
+
+  table {
+    float: left;
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  table tbody tr:nth-child(even) {
+    background-color: #cff;
+  }
+
+  table tbody tr:nth-child(odd) {
+    background-color: #fff;
+  }
+
+  h1::first-letter {
+    font-size: 2rem;
+    color: #0066cc;
+    font-weight: bold;
+  }
+
+  section > table {
+    width: 80%;
+    border-collapse: collapse;
+  }
+
+  a:hover {
+    color: #ff6347;
+    text-decoration: underline;
+  }
+
+  a:active {
+    color: #008080;
+  }
+
+  th,
+  td {
+    border-color: #000;
+    border-style: solid;
+    border-width: 2px;
+    padding: 8px;
+    text-align: left;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #fafafa;
+  }
+
   .sec3box {
     width: 1220px;
     height: 300px;
